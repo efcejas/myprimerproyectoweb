@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 282.94">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #1d3a85;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_20-2);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_20-3);
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-4 {
+        stroke: #1d3a85;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-11 {
+        fill: url(#Degradado_sin_nombre_20);
+      }
+
+      .cls-3 {
+        font-family: HandelGotD-Bol, 'Handel Gothic D';
+        font-size: 127.89px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_20" data-name="Degradado sin nombre 20" x1="8.32" y1="18.22" x2="540.67" y2="18.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".01" stop-color="#e5e8f1" stop-opacity=".11"/>
+      <stop offset=".05" stop-color="#b0bad4" stop-opacity=".35"/>
+      <stop offset=".09" stop-color="#8191bb" stop-opacity=".55"/>
+      <stop offset=".13" stop-color="#5c71a7" stop-opacity=".72"/>
+      <stop offset=".19" stop-color="#3f5897" stop-opacity=".85"/>
+      <stop offset=".25" stop-color="#2b468c" stop-opacity=".93"/>
+      <stop offset=".34" stop-color="#203c86" stop-opacity=".99"/>
+      <stop offset=".59" stop-color="#1d3a85" stop-opacity="1"/>
+      <stop offset=".94" stop-color="#1d3a85"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_20-2" data-name="Degradado sin nombre 20" y1="81.65" y2="81.65" xlink:href="#Degradado_sin_nombre_20"/>
+    <linearGradient id="Degradado_sin_nombre_20-3" data-name="Degradado sin nombre 20" y1="145.07" y2="145.07" xlink:href="#Degradado_sin_nombre_20"/>
+  </defs>
+  <text class="cls-3" transform="translate(0 257.36) scale(.94 .8)"><tspan class="cls-13" x="0" y="0">Diagnó</tspan><tspan class="cls-1" x="421.38" y="0">st</tspan><tspan class="cls-13" x="537.76" y="0">i</tspan><tspan class="cls-6" x="570.89" y="0">c</tspan><tspan class="cls-9" x="632.91" y="0">o m</tspan><tspan class="cls-12" x="841.75" y="0">é</tspan><tspan class="cls-9" x="905.44" y="0">di</tspan><tspan class="cls-6" x="1013.38" y="0">c</tspan><tspan class="cls-5" x="1075.4" y="0">o</tspan></text>
+  <rect class="cls-11" x="8.32" y=".03" width="532.35" height="36.39"/>
+  <rect class="cls-7" x="8.32" y="63.45" width="532.35" height="36.39"/>
+  <g>
+    <g>
+      <path class="cls-4" d="m1060.1,147.45l-34.14.94V61.15c1.14-20.7-6.82-28.33-30.32-28.63h-26.91v16.01h8.36c23.88.3,31.95,7.92,30.8,28.67v88.14h50.2l19.08-16.01m-127.52-.94h-32.13V32.53h-55.22v16.01h36.15v116.81h52.21l18.07-16.01m-109.44-.94h-47.19l.07-147.42m-1.07-.47l-18.07,16.74v148.11h51.21l18.07-16.01"/>
+      <path class="cls-10" d="m811.6.5l187.38.16c35.47.31,49.21,3.35,61.41,13.71,10.68,9.14,16.79,23.76,16.79,40.2v94.7s-.03.07-.07.07h-51.14V61.19c1.15-20.73-6.88-28.36-30.57-28.66h-26.66v116.67c0,.07-.06.13-.14.13h-51.06V32.53h-55.22v116.71c0,.05-.05.1-.11.1h-51.1V.03"/>
+    </g>
+    <path class="cls-2" d="m741.01,40.5c-12.22-4.63-26.62-6.55-52.35-6.55h-61.52v16.96h42.72c25.73,0,40.13,1.93,52.35,6.55,15.27,5.98,25.3,19.67,25.3,34.9,0,6.05-1.63,11.99-4.57,17.3.7-.29,1.37-.6,1.99-.91,13.08-6.55,21.38-19.66,21.38-33.36,0-15.23-10.04-28.92-25.3-34.89Z"/>
+    <path class="cls-4" d="m584.18,18.87v128.58h99.56c30.14.6,43.27-.07,55.68-2.29,12.3-2.08,32.74-12.45,41.06-17.02-9.59,13.84-35.82,29.54-59.85,33.59-12.41,2.23-25.53,2.89-55.68,2.68h-99.84V16.3l18.07-15.8"/>
+    <path class="cls-10" d="m583.67,148.39h99.54c30.05,0,43.14-.67,55.51-2.88,12.26-2.08,22.43-5.33,30.72-9.88,10.34-5.65,17.75-13.31,22.65-23.16,5.66-11.08,9.2-25.27,9.2-37.69,0-22.84-9.9-44.56-25.11-55.21-18.73-13.52-45.6-19.07-92.98-19.07h-100.05v148.36m162.24-41.18c-.62.3-1.29.6-1.99.89-10.6,4.36-29.81,6.85-54.41,6.85h-61.66V34.41h61.66c25.79,0,40.22,1.89,52.47,6.42,15.3,5.85,25.36,19.26,25.36,34.18,0,13.42-8.31,26.25-21.42,32.67Z"/>
+  </g>
+  <rect class="cls-8" x="8.32" y="126.88" width="532.35" height="36.39"/>
+</svg>

@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.h-100 {
+    margin left: auto;
+    margin-right: auto
+	-webkit-box-shadow: 1px 1px 3px -1px #7D7D7D;
+	box-shadow: 1px 1px 3px -1px #7D7D7D;
+}
+.row {margin: 10px;}
