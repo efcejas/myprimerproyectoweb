@@ -194,12 +194,6 @@ p {
     padding-top: 5px;}
     h2 {font-size: 15px;
     padding-right: 10px;}
-  .sociedades {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-  }
   }
   @media (min-width: 321px) and (max-width: 767px) {}
   @media (min-width: 768px) {}
