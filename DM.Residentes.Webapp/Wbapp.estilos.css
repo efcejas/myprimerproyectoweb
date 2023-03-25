@@ -70,17 +70,16 @@ form {
   align-items: center;
 }
 input[type="text"], input[type="password"] {
-  width: 250px;
+    width: 250px;
     height: 30px;
     padding-left: 10px;
     border-radius: 2px;
     border: none;
 }
 input[type="button"] {
-  align-self: flex-end;
-  border-radius: 2px;
-  background-color:
-    #A3BCF7;
-  border: none;
+    align-self: flex-end;
+    border-radius: 2px;
+    background-color: #A3BCF7;
+    border:none;
     height: 25px;
 }
