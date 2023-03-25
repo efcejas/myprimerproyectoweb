@@ -72,6 +72,7 @@ form {
 input[type="text"], input[type="password"] {
   width: 250px;
     height: 30px;
+    padding-left: 10px;
     border-radius: 2px;
     border: none;
 }
