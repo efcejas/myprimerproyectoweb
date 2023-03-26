@@ -76,13 +76,19 @@ input[type="text"], input[type="password"] {
     border-radius: 2px;
     border: none;
 }
+a {
+  align-self: flex-end;
+  font-size: 14px;
+  color: #F2F2F2;
+  padding-bottom: 2px;
+}
 input[type="button"] {
-	align-self: flex-end;
-	border-radius: 2px;
-	background-color: #7CAB2C;
-	border: none;
-	height: 25px;
-	-webkit-box-shadow: -3px 3px 8px -1px #0D2662;
-	box-shadow: -3px 3px 8px -1px #0D2662;
-	color: #F2F2F2;
+  align-self: flex-end;
+  border-radius: 2px;
+  background-color: #7CAB2C;
+  border: none;
+  height: 25px;
+  -webkit-box-shadow: -3px 3px 8px -1px #0D2662;
+  box-shadow: -3px 3px 8px -1px #0D2662;
+  color: #F2F2F2;
 }
