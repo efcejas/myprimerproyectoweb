@@ -51,7 +51,7 @@ table {
   align-items: center;
   padding: 25px;
 }
-.Título {
+.Titulo {
   font-family: mr-eaves-sans, sans-serif;
   padding-left: 15px;
   font-weight: 800;
@@ -182,7 +182,7 @@ p {
     flex-direction: column;
       height: auto;
   }
-  .Título {
+  .Titulo {
     text-align: center;
       padding-left: 0px;
   }
